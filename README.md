@@ -1,5 +1,5 @@
-- 👋 Hi, I'm @Aryaristote, a software a Junior developer
-- 👀 I'm interested in web developement (frontend with Javascript framework, and backend with Php and Nodejs).
+- 👋 Hi, I'm @Aryaristote, a fullstack web developer
+- 👀 I'm interested in web developement (frontend with Javascript framework(React, Next, Vuejs), and backend with Php and Nodejs).
 - 🌱 I'm currently learning servers administration and new web technologies.
 - 💞️ I'm Currently looking to collaboate on full stack web applications.
 - 💬 Ask me about Web Technologies and Servers administration.
