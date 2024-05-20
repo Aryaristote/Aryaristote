@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **KALUME EERNESY ARISTOT**, a fullstack web developer passionate about creating dynamic and engaging web applications. I thrive on the intersection of frontend and backend development, utilizing a variety of technologies to deliver comprehensive solutions.
+I'm **KALUME ERNEST Aristote**, a fullstack web developer passionate about creating dynamic and engaging web applications. I thrive on the intersection of frontend and backend development, utilizing a variety of technologies to deliver comprehensive solutions.
 
 ### Programming Languages 🌐
 **Know/Using:**
